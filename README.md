@@ -62,4 +62,4 @@ Para garantir a funcionalidade do projeto e a demonstração da Lógica de Decis
 ## 4. Entregas
 
 * **Link da Simulação Wokwi:** [https://wokwi.com/projects/448169008425948161]
-* **Link do Vídeo Explicativo (Máx. 3 minutos):** [INSERIR O LINK DO VÍDEO AQUI]
+* **Link do Vídeo Explicativo (Máx. 3 minutos):** [https://www.youtube.com/watch?v=YlHteAYq-yM]
